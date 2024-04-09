@@ -1,5 +1,4 @@
 import { sql } from '@vercel/postgres';
-import { unstable_cache as noStore } from 'next/cache';
 import {
   CustomerField,
   CustomersTableType,

@@ -3,6 +3,8 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import { lusitana } from './ui/fonts';
 import Image from 'next/image';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Page() {
   return (
